@@ -1,0 +1,36 @@
+.teste {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div1 {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.div2 {
+  display: grid;
+  width: 10%;
+  margin-left: 15px;
+}
+
+.div3 {
+  display: grid;
+  margin-left: 15px;
+}
+.div4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+}
+
+.teste2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
